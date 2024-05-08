@@ -1,5 +1,8 @@
 _repo: History-as-past-ethics-an-introduction-to-the-history-of-morals_73430
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73430-h/images/cover.jpg
 creator:
   author:
     agent_name: Myers, P. V. N. (Philip Van Ness)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2198
     wikipedia: https://en.wikipedia.org/wiki/Philip_van_Ness_Myers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73430#History-as-past-ethics-an-introduction-to-the-history-of-morals
 gutenberg_issued: '2024-04-19'
 gutenberg_type: Text
 identifiers:
